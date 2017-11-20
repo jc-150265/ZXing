@@ -13,7 +13,7 @@ namespace ZXing2
         {
             InitializeComponent();
 
-            MainPage = new ZXing2.MainPage();
+            MainPage = new NavigationPage(new ContentPage());
         }
 
         protected override void OnStart()
