@@ -23,7 +23,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>ZXing</string>
 	<key>CFBundleIdentifier</key>
-	<string>jp.jc-21.ZXing2</string>
+	<string>jp.jc21.ZXing2</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>CFBundleIconFiles</key>
@@ -48,7 +48,5 @@
 	<string>LaunchScreen</string>
 	<key>NSCameraUsageDescription</key>
 	<string>カメラを利用してスキャンします</string>
-	<key>MinimumOSVersion</key>
-	<string>10.2</string>
 </dict>
 </plist>
