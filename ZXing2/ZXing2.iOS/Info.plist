@@ -21,7 +21,7 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>CFBundleDisplayName</key>
-	<string>ZXing2</string>
+	<string>ZXing</string>
 	<key>CFBundleIdentifier</key>
 	<string>jp.jc-21.ZXing2</string>
 	<key>CFBundleVersion</key>
@@ -49,6 +49,6 @@
 	<key>NSCameraUsageDescription</key>
 	<string>カメラを利用してスキャンします</string>
 	<key>MinimumOSVersion</key>
-	<string>10.2.1</string>
+	<string>10.2</string>
 </dict>
 </plist>
