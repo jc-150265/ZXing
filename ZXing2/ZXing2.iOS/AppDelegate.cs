@@ -21,7 +21,4 @@ namespace ZXing2.iOS
         }
     }
 
-    internal class App : Xamarin.Forms.Application
-    {
-    }
 }

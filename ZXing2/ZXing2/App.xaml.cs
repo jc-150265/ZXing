@@ -13,7 +13,7 @@ namespace ZXing2
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new ContentPage());
+            MainPage = new NavigationPage(new QRCodeReaderPage());
         }
 
         protected override void OnStart()
